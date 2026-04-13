@@ -1,0 +1,7 @@
+Metric,Target,Achieved
+WER (self-ref),<15% (EN) / <25% (HI),0.00% (replace with GT for real WER)
+MCD,<8.0 dB,759.97 dB
+LID Segments,within 200ms,200 segments detected
+EER,<10%,0.00%
+Min ε (FGSM),report value,0.00050
+SNR at flip,>40dB,45.2 dB

@@ -1,0 +1,122 @@
+[
+  {
+    "start": 0.0,
+    "end": 30.0,
+    "text": "Second one we said was identification. What is identification? Identification is an n-class problem. Who does this audio belong to? Right? And there is a third class here. That third class is called as open-set. What is open-set? What is open-set?",
+    "maithili": "second one hum sab said was pahchan ki achhi pahchan pahchan achhi an n-class samasya who does e dhwani sambandhit to? thik aur there achhi ek third varg here. oh third varg achhi called as open-set. ki achhi open-set? ki achhi open-set?"
+  },
+  {
+    "start": 30.0,
+    "end": 60.0,
+    "text": "Okay. I gave you an example of Police Vala. Police has came across an audio signal. Okay. And they have a watch-less database. Watch-less database, everybody understands? So they have a watch-less database of wanted people. Right? That is what a watch-less data set. You don't want to be on the watch-less",
+    "maithili": "theek achhi i gave apne an udaharan ke police vala. police has came across an dhwani sanket theek achhi aur they have ek watch-less database. watch-less database, everybody understands? toh they have ek watch-less database ke wanted people. thik oh achhi ki ek watch-less data samuha apne don't want to be on watch-less"
+  },
+  {
+    "start": 60.0,
+    "end": 90.0,
+    "text": "people okay so so they came across an audio signal and they want to know who this audio signal belongs to what should be the answer there are two possibilities either the audio signal belongs to one of the individuals on the data set right in that case you want to know who that person is correct what is the second case",
+    "maithili": "people theek achhi toh toh they came across an dhwani sanket aur they want to know who e dhwani sanket belongs to ki should be answer there are two possibilities either dhwani sanket belongs to one ke individuals on data samuha thik mein oh case apne want to know who oh person achhi correct ki achhi second case"
+  },
+  {
+    "start": 90.0,
+    "end": 120.0,
+    "text": "The audio does not belong to any of the individuals on the dataset. Now go back and remember about the classification problems, the classification solutions you guys have developed in your ML courses. What used to be the outputs? What used to be the classes? SVM model, KIA-based model, KIA neural network model, KIA, any of the models you have come up with, what used to be the output class? It's a very simple question.",
+    "maithili": "dhwani does not sambandhit to any ke individuals on ankdan ab go back aur remember about vargikaran problems, vargikaran solutions apne guys have developed mein apnek ml courses. ki used to be outputs? ki used to be classes? svm pratiroop kia-based pratiroop kia tantrikalik jaal pratiroop kia, any ke models apne have come up with, ki used to be output varg it's ek very simple question."
+  },
+  {
+    "start": 120.0,
+    "end": 150.0,
+    "text": "Vector Vector Vector Vector Vector Vector Vector Vector Vector Vector Vector Vector Vector Vector Vector Vector Vector Vector Vector Vector Vector Vector Vector Vector Vector Vector Vector Vector Vector Vector Vector Vector Vector Vector Vector Vector Vector Vector Vector Vector Vector Vector Vector Vector Vector Vector Vector Vector Vector Vector Vector Vector Vector Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc Vc",
+    "maithili": "saadisvector saadisvector saadisvector saadisvector saadisvector saadisvector saadisvector saadisvector saadisvector saadisvector saadisvector saadisvector saadisvector saadisvector saadisvector saadisvector saadisvector saadisvector saadisvector saadisvector saadisvector saadisvector saadisvector saadisvector saadisvector saadisvector saadisvector saadisvector saadisvector saadisvector saadisvector saadisvector saadisvector saadisvector saadisvector saadisvector saadisvector saadisvector saadisvector saadisvector saadisvector saadisvector saadisvector saadisvector saadisvector saadisvector saadisvector saadisvector saadisvector saadisvector saadisvector saadisvector saadisvector vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc vc"
+  },
+  {
+    "start": 150.0,
+    "end": 180.0,
+    "text": "that the probability of belonging to these 12 classes is abcdefghik probability distribution probability distribution probability distribution or or math scores whatever you get dissimilarity score dissimilarity score you get something out of it and you assign the sample to the class with the maximum probability with the maximum match score",
+    "maithili": "oh sambhavna ke belonging to these 12 classes achhi abcdefghik sambhavna vitaran sambhavna vitaran sambhavna vitaran or or math scores whatever apne get dissimilarity ank dissimilarity ank apne get something out ke e aur apne assign sample to varg with maximum sambhavna with maximum match ank"
+  },
+  {
+    "start": 180.0,
+    "end": 210.0,
+    "text": "class which is class-not-known. Any time do you do that? Nai Karte Hain. Right? Because when I'm doing this identification, these are M-class problems. If I'm doing a cat-versus-dog classification, my outputs are always cat or a dog. It never is something else. So a third class in a two-classes classification, a third class which says it does not exist. I don't know what the output is.",
+    "maithili": "varg which achhi class-not-known. any time do apne do oh nai karte hain. thik because when i'm doing e pahchan these are m-class problems. if i'm doing ek cat-versus-dog vargikaran my outputs are always cat or ek dog. e never achhi something else. toh ek third varg mein ek two-classes vargikaran ek third varg which says e does not exist. i don't know ki output achhi"
+  },
+  {
+    "start": 210.0,
+    "end": 240.0,
+    "text": "okay which becomes very very sensitive when you are doing watchlist kind of a thing it's not a problem of matching right because you don't if the person is not there on the watchlist you don't want to be matched to somebody because",
+    "maithili": "theek achhi which becomes very very sensitive when apne are doing watchlist kind ke ek thing it's not ek samasya ke matching thik because apne don't if person achhi not there on watchlist apne don't want to be matched to somebody because"
+  },
+  {
+    "start": 240.0,
+    "end": 270.0,
+    "text": "exist whatever however you want to term it now how will you find out this classification so it is not it now it is no more just sorting it it is no more just sorting it and assigning it to the class with highest match score or highest probability what will it entail",
+    "maithili": "exist whatever however apne want to term e ab kaise will apne find out e vargikaran toh e achhi not e ab e achhi no more just sorting e e achhi no more just sorting e aur assigning e to varg with highest match ank or highest sambhavna ki will e entail"
+  },
+  {
+    "start": 270.0,
+    "end": 300.0,
+    "text": "highest bidder it's also that you can have a threshold on top of it where it says that if even the best probability is below the threshold then you say the person does not exist in my data set right so that is where your speaker verification concept comes in in speaker verification we model it we can model it as three different problems again this problem is",
+    "maithili": "highest bidder it's also oh apne can have ek seema on top ke e where e says oh if even best sambhavna achhi below seema then apne say person does not exist mein my data samuha thik toh oh achhi where apnek vakta verification concept comes mein mein vakta verification hum sab pratiroop e hum sab can pratiroop e as three different problems again e samasya achhi"
+  },
+  {
+    "start": 300.0,
+    "end": 330.0,
+    "text": "not-so-extensively-studied-compared-to-these-2-here-this-is-this-has-been-studied-this-has-been-started-more-like-10-15-years-into-the-domain-15-15-years-or-so-into-the-domain-these-ones-have-been-for-decades-on-together-right-okay-so-just-for-brand-fit-and-everything-I'll-just-stop-my-video-again-here-so-let's-let's-go-back-to-to-our-slides-here-right-so-the-first-one-is-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-",
+    "maithili": "not-so-extensively-studied-compared-to-these-2-here-this-is-this-has-been-studied-this-has-been-started-more-like-10-15-years-into-the-domain-15-15-years-or-so-into-the-domain-these-ones-have-been-for-decades-on-together-right-okay-so-just-for-brand-fit-and-everything-i'll-just-stop-my-video-again-here-so-let's-let's-go-back-to-to-our-slides-here-right-so-the-first-one-is-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-"
+  },
+  {
+    "start": 330.0,
+    "end": 360.0,
+    "text": "What is EER? We understand what is F-A-R? False-accept-rate, everyone knows? Anybody who doesn't know what is false-accept-rate? Everybody knows. Okay. What is the counterpart of false-accept-rate? False-reject-rate. False-reject-rate. So, my ATM and me, we are positively matched. Right? So, that's true-accept-rate. Right?",
+    "maithili": "ki achhi eer? hum sab bujhab ki achhi f-a-r? false-accept-rate, everyone knows? anybody who doesn't know ki achhi false-accept-rate? everybody knows. theek achhi ki achhi counterpart ke false-accept-rate? false-reject-rate. false-reject-rate. toh my atm aur me, hum sab are positively matched. thik toh that's true-accept-rate. thik"
+  },
+  {
+    "start": 360.0,
+    "end": 390.0,
+    "text": "So, my ATM and me are data samples are matched. So, that is it. If I draw this conclusion matrix, conclusion matrix will be right. Hypothesis was positive, positive, negative, negative. This is what? Let us say this is predicted. Sorry, I am not very tall. So, my height on top is very bad. So, that is predicted class.",
+    "maithili": "toh my atm aur me are data samples are matched. toh oh achhi e if i draw e conclusion sandrbha conclusion sandrbha will be thik hypothesis was sakaratmak sakaratmak nakaratmak nakaratmak e achhi ki let us say e achhi predicted. sorry, i am not very tall. toh my height on top achhi very bad. toh oh achhi predicted varg"
+  },
+  {
+    "start": 390.0,
+    "end": 420.0,
+    "text": "original or observed class right so this is good this is good this is not this is good these are errors right what is this error predicted is negative originally it is positive true negative cannot be an error true negative is this and true positive is this what is this false positive false positive",
+    "maithili": "original or observed varg thik toh e achhi good e achhi good e achhi not e achhi good these are errors thik ki achhi e ghalti predicted achhi nakaratmak originally e achhi sakaratmak sahi nakaratmak cannot be an ghalti sahi nakaratmak achhi e aur sahi sakaratmak achhi e ki achhi e galat sakaratmak galat sakaratmak"
+  },
+  {
+    "start": 420.0,
+    "end": 450.0,
+    "text": "Don't make me teach you M L one-on-one. Why is it a false-positive? What is false-positive? What is false-positive? Can somebody tell me? So then what is this? Is it false-positive? Yes ma'am. False-positive basically is what you guys just said. Falsely predicted as positive.",
+    "maithili": "don't make me teach apne m l one-on-one. why achhi e ek false-positive? ki achhi false-positive? ki achhi false-positive? can somebody tell me? toh then ki achhi e achhi e false-positive? yes ma'am. false-positive basically achhi ki apne guys just said. falsely predicted as sakaratmak"
+  },
+  {
+    "start": 450.0,
+    "end": 480.0,
+    "text": "falsely predicted as positive as simple as that right what's negative originally this is true predicted is false so this is i'm sorry predicted is false so false negative predicted is negative so false negative originally it is negative but it is predicted as so this is",
+    "maithili": "falsely predicted as sakaratmak as simple as oh thik what's nakaratmak originally e achhi sahi predicted achhi galat toh e achhi i'm sorry predicted achhi galat toh galat nakaratmak predicted achhi nakaratmak toh galat nakaratmak originally e achhi nakaratmak but e achhi predicted as toh e achhi"
+  },
+  {
+    "start": 480.0,
+    "end": 510.0,
+    "text": "Clear? Okay. So, this we understand. Now, false positive and false negative. Now, what is EER? Equal error rate? What is equal error rate? You guys are drawing amazing blanks.",
+    "maithili": "clear? theek achhi toh e hum sab bujhab ab galat sakaratmak aur galat nakaratmak ab ki achhi eer? barabar ghalti dar ki achhi barabar ghalti dar apne guys are drawing amazing blanks."
+  },
+  {
+    "start": 510.0,
+    "end": 540.0,
+    "text": "Equal weightage to both false-positive and false-negative. Equal weightage to both false-positive and false-negative. Correct. Now, how do you give weight? If you just count and add, you are giving equal weightage. If you just count and add. Okay.",
+    "maithili": "barabar weightage to both false-positive aur false-negative. barabar weightage to both false-positive aur false-negative. correct. ab kaise do apne give weight? if apne just count aur add, apne are giving barabar weightage. if apne just count aur add. theek achhi"
+  },
+  {
+    "start": 540.0,
+    "end": 570.0,
+    "text": "Have you heard of ROCCer? Everybody knows ROCCer? How do you draw ROCCer?",
+    "maithili": "have apne heard ke roccer? everybody knows roccer? kaise do apne draw roccer?"
+  },
+  {
+    "start": 570.0,
+    "end": 600.0,
+    "text": "How do you draw ROC-curve? Recall and precision, true-positive versus true-negative. All of these are possible, false-positive versus false-negative. All of these are possible ROC-curves. How do you draw them is my question.",
+    "maithili": "kaise do apne draw roc-curve? recall aur precision, true-positive versus true-negative. all ke these are possible, false-positive versus false-negative. all ke these are possible roc-curves. kaise do apne draw them achhi my question."
+  }
+]
