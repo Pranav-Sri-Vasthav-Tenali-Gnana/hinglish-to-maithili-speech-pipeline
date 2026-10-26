@@ -1,11 +1,14 @@
-# Speech Understanding — Programming Assignment 2
-### Pranav Sri Vasthav Tenali Gnana | M25DE1069 | IIT Jodhpur
+# Hinglish Lecture → Maithili Speech Pipeline
+
+**Pranav Sri Vasthav Tenali Gnana** · Speech Understanding course project (Programming Assignment 2) · IIT Jodhpur
+
+**Stack:** Python · Whisper large-v3 · Meta MMS (LID, TTS) · SpeechBrain x-vectors · phonemizer / espeak-ng · librosa · pysptk · DTW · scikit-learn
 
 ---
 
 ## Overview
 
-This assignment builds an end-to-end pipeline that:
+This project builds an end-to-end pipeline that:
 1. Transcribes a code-switched (Hinglish) class recording
 2. Converts the transcript to IPA and translates it to Maithili (LRL)
 3. Synthesizes the lecture in Maithili using zero-shot voice cloning
